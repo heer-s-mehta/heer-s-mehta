@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heer-s-mehta&label=Profile%20views&color=0e75b6&style=flat" alt="heer-s-mehta" /> </p>
 
+- 🌱 I’m currently pursuing Diploma in Computer Science Engg at Shri.Bhagubhai Mafatlal Polytechnic [https://sbmp.ac.in/](https://sbmp.ac.in/)
+
 - 📫 How to reach me **heermehta69@gmail.com**
 
 - ⚡ Fun fact **Hard work may not guarantee success, but it sure beats relying on luck!**
@@ -21,4 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heer-s-mehta&show_icons=true&locale=en&layout=compact" alt="heer-s-mehta" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heer-s-mehta&show_icons=true&locale=en" alt="heer-s-mehta" /></p>
-
