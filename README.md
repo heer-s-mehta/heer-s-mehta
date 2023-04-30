@@ -9,12 +9,13 @@
 
 - ⚡ Fun fact **Hard work may not guarantee success, but it sure beats relying on luck!**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/heer-mehta-student" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heer-mehta-student" height="30" width="40" /></a>
-<a href="https://instagram.com/heerrmehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heerrmehta" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/heermehta69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="heermehta69" height="30" width="40" /></a>
-<a href="https://discord.gg/beGDQ4pp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="beGDQ4pp" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/heer-mehta-student" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heer-mehta-student" height="40" width="50" /></a>
+<a href="https://instagram.com/heerrmehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heerrmehta" height="40" width="50" /></a>
+<a href="https://www.hackerrank.com/heermehta69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="heermehta69" height="40" width="50" /></a>
+<a href="https://discord.gg/beGDQ4pp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="beGDQ4pp" height="40" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
