@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **heermehta69@gmail.com**
 
+- 👔 My socials https://linktr.ee/heermehta
+
 - ⚡ Fun fact **Hard work may not guarantee success, but it sure beats relying on luck!**
 
 
