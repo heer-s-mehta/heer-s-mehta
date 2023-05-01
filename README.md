@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **heermehta69@gmail.com**
 
-- <a href="https://linktr.ee/heermehta">Let's connect! Click for my socials.</a>
+- 🫱🏻‍🫲🏻 <a href="https://linktr.ee/heermehta">Let's connect! Click for my socials.</a>
 
 - ⚡ Fun fact **Hard work may not guarantee success, but it sure beats relying on luck!**
 
