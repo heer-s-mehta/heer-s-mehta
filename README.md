@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heer-s-mehta&label=Profile%20views&color=0e75b6&style=flat" alt="heer-s-mehta" /> </p>
 
-- 🌱 I’m currently pursuing Diploma in Computer Science Engg at Shri Bhagubhai Mafatlal Polytechnic
+- 🌱 I’m currently pursuing BTECH IN COMPUTER ENGINEERING at SVKM's Dwarkadas J. Sanghvi College of Engineering
+
+- 🎓 Completed Diploma in Computer Science Engg at SVKM's Shri Bhagubhai Mafatlal Polytechnic
 
 - 📫 How to reach me **heermehta69@gmail.com**
 
