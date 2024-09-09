@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact *Hard work may not guarantee success, but it sure beats relying on luck!*
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center"> 👩🏻‍💻 Repo Report Card 📝</h2>
 <br>
 <p align="center">
   <div align="center">
