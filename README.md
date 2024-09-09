@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact *Hard work may not guarantee success, but it sure beats relying on luck!*
 
-  <p align="center">
+<p align="center">
   <a href="https://github.com/heer-s-mehta">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
@@ -27,15 +27,19 @@
     </picture>
   </a>
   <a href="https://www.linkedin.com/in/heer-s-mehta/">
-    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linkedin/white">
+      <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin">
+    </picture>
   </a>
   <a href="https://www.instagram.com/heerrmehta/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/instagram/white">
-          <img alt="Instagram" title="Instagram" height="48" width="48" src="https://cdn.simpleicons.org/instagram">
+      <img alt="Instagram" title="Instagram" height="48" width="48" src="https://cdn.simpleicons.org/instagram">
     </picture>
+  </a>
 </p>
- 
+
   
 
 <h2 align="center"> 👩🏻‍💻 Repo Report Card 📝</h2>
