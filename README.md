@@ -1,6 +1,4 @@
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=heer-s-mehta.heer-s-mehta">
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+🙋🏻‍♂️;Glad+our+pixels+aligned!&center=true&size=30">
