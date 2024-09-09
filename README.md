@@ -26,7 +26,7 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=heer-s-mehta&show_icons=true&locale=en&layout=compact" alt="heer-s-mehta" /></p>
 
 <h1 align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=heer-s-mehta&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
   
 </h1>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=heer-s-mehta&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
