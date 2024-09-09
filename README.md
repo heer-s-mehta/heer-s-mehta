@@ -29,13 +29,13 @@
   <a href="https://www.linkedin.com/in/heer-s-mehta/">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin">
   </a>
- 
-</p>
   <a href="https://www.instagram.com/heerrmehta/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/instagram/white">
           <img alt="Instagram" title="Instagram" height="48" width="48" src="https://cdn.simpleicons.org/instagram">
     </picture>
+</p>
+ 
   
 
 <h2 align="center"> 👩🏻‍💻 Repo Report Card 📝</h2>
