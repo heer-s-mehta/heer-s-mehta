@@ -42,26 +42,25 @@
 </p>
 
 <hr>
-
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/heer-s-mehta/Aircode-algorithm-visualiser-webapp" title="Aircode-algorithm-visualiser"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heer-s-mehta&repo=Repo1&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/heer-s-mehta/Aircode-algorithm-visualiser-webapp" title="Aircode Algorithm Visualiser"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heer-s-mehta&repo=Aircode-algorithm-visualiser-webapp&theme=react&border_color=61dafb&border_radius=10"></a>
   
-  <a align="right" href="https://github.com/heer-s-mehta/Plantex" title="Plantex"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heer-s-mehta&repo=Repo2&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/heer-s-mehta/Plantex" title="Plantex"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heer-s-mehta&repo=Plantex&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/heer-s-mehta/KonnectED-WebApp" title="KonnectED"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heer-s-mehta&repo=Repo3&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/heer-s-mehta/KonnectED-WebApp" title="KonnectED"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heer-s-mehta&repo=KonnectED-WebApp&theme=react&border_color=61dafb&border_radius=10"></a>
   
-  <a align="right" href="https://github.com/heer-s-mehta/HappyClub" title="HappyClub"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heer-s-mehta&repo=Repo4&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/heer-s-mehta/HappyClub" title="HappyClub"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heer-s-mehta&repo=HappyClub&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/heer-s-mehta/Stock-Prediction-App" title="Stalk the stock"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heer-s-mehta&repo=Repo5&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/heer-s-mehta/Stock-Prediction-App" title="Stock Prediction App"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heer-s-mehta&repo=Stock-Prediction-App&theme=react&border_color=61dafb&border_radius=10"></a>
   
-  <a align="right" href="https://github.com/heer-s-mehta/FitBot-A-chatbot-using-Tkinter" title="FitBot"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heer-s-mehta&repo=Repo6&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/heer-s-mehta/FitBot-A-chatbot-using-Tkinter" title="FitBot"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heer-s-mehta&repo=FitBot-A-chatbot-using-Tkinter&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
