@@ -5,7 +5,7 @@
   </a>
 </h1>
 <h1 align="left">Hi 👋🏻, I'm Heer</h1>
-<h3 align="left">Hello! I'm Heer Mehta, a dedicated problem solver from India. My love for software stems from my ability to conceive innovative ideas and bring them to life with polished interfaces. I place great emphasis on ensuring that the things I create are user-friendly, well-designed, and of high-quality code.</h3>
+<h3 align="left">Hello! I'm Heer Mehta, a dedicated problem solver from India. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heer-s-mehta&label=Profile%20views&color=0e75b6&style=flat" alt="heer-s-mehta" /> </p>
 
