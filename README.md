@@ -60,7 +60,7 @@
 <div width="100%" align="center">
   <a align="left" href="https://github.com/heer-s-mehta/Stock-Prediction-App" title="Stock Prediction App"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heer-s-mehta&repo=Stock-Prediction-App&theme=react&border_color=61dafb&border_radius=10"></a>
   
-  <a align="right" href="https://github.com/heer-s-mehta/FitBot-A-chatbot-using-Tkinter" title="FitBot"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heer-s-mehta&repo=FitBot-A-chatbot-using-Tkinter&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/heer-s-mehta/FitBot-Your-Fitness-Coach" title="FitBot"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heer-s-mehta&repo=FitBot-Your-Fitness-Coach&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
