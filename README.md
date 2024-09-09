@@ -22,7 +22,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heer-s-mehta&show_icons=true&locale=en&layout=compact" alt="heer-s-mehta" /></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=heer-s-mehta&show_icons=true&locale=en" alt="heer-s-mehta" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heer-s-mehta&show_icons=true&locale=en&layout=compact" alt="heer-s-mehta" /></p>
+<br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=heer-s-mehta&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
