@@ -43,4 +43,25 @@
 
 <hr>
 
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/heer-s-mehta/Repo1" title="Repository 1"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heer-s-mehta&repo=Repo1&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/heer-s-mehta/Repo2" title="Repository 2"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heer-s-mehta&repo=Repo2&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/heer-s-mehta/Repo3" title="Repository 3"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heer-s-mehta&repo=Repo3&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/heer-s-mehta/Repo4" title="Repository 4"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heer-s-mehta&repo=Repo4&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/heer-s-mehta/Repo5" title="Repository 5"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heer-s-mehta&repo=Repo5&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/heer-s-mehta/Repo6" title="Repository 6"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=heer-s-mehta&repo=Repo6&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+<h4 align="center">
+  <a href="https://github.com/heer-s-mehta?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
 
