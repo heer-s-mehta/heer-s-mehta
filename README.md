@@ -40,7 +40,7 @@
   </a>
 </p>
 
-<h2 align="center"> ⚛ Tech Stack 🛠️ </h2>
+<h2 align="center"> ⚙️ Tech Stack 🛠️ </h2>
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-F34B7F?style=flat-square&logo=c%2B%2B&logoColor=white)
