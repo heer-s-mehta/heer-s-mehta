@@ -4,8 +4,8 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+🙋🏻‍♂️;Glad+our+pixels+aligned!&center=true&size=30">
   </a>
 </h1>
-<h1 align="left">Hi 👋🏻, I'm Heer</h1>
-<h3 align="left">Hello! I'm Heer Mehta, a dedicated problem solver from India. My love for software stems from my ability to conceive innovative ideas and bring them to life with polished interfaces.</h3>
+<h1 align="left">Hi 👋🏻, I'm Heer ..</h1>
+<h3 align="left">Hello! I'm Heer Mehta, a dedicated problem 🔨 solver from India. My love for software 🖥️  stems from my ability to conceive innovative ideas 💡 and bring them to life with polished 🤖 interfaces.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heer-s-mehta&label=Profile%20views&color=0e75b6&style=flat" alt="heer-s-mehta" /> </p>
 
@@ -39,7 +39,9 @@
     </picture>
   </a>
 </p>
-
+<hr>
+<br>
+<h2 align="center"> ⚛ Tech Stack 🛠️ </h2>
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-F34B7F?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -54,9 +56,11 @@
 ![MVC](https://img.shields.io/badge/MVC-000000?style=flat-square&logo=dotnet&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-
-<h2 align="center"> 👩🏻‍💻 Repo Report Card 📝</h2>
+<h2 align="center"> 📊 Repo Report Card 📝</h2>
 <br>
 <p align="center">
   <div align="center">
@@ -77,7 +81,7 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=heer-s-mehta&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<h2 align="center">👨‍💻 Repositories 📦 </h2>
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/heer-s-mehta/Aircode-algorithm-visualiser-webapp">
